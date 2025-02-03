@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <style>
+            .box {
+                width: 400px;
+                height: 200px;
+                border: 10px solid black;
+                margin: 20px;
+                padding: 30px;
+                background-color: lightgray;
+                box-sizing: border-box;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box"></div>
+    </body>
+</html>
