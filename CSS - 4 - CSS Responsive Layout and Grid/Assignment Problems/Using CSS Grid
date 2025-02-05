@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	  <head>
+    		<link rel="stylesheet" href="style.css">
+		    <style>
+			      .grid-container {
+				        display: grid;
+				        height: 100vh;
+				        grid-template-areas: "header Header" "nav content" "footer footer";
+				        grid-template-columns: 300px 1fr;
+				        grid-template-rows: 80px 1fr 120px;
+			      }
+			      .header {
+				        grid-area: header;
+				        display: block;
+				        border: skyblue 1px solid;
+				        padding: 10px;
+			      }
+			      .nav {
+				        grid-area: nav;
+				        display: block;
+				        border: skyblue 1px solid;
+				        padding: 10px;
+			      }
+			      .content {
+				        grid-area: content;
+				        display: block;
+				        border: skyblue 1px solid;
+				        padding: 10px;
+			      }
+			      .footer {
+				        grid-area: footer;
+				        display: block;
+				        border: skyblue 1px solid;
+				        padding: 10px;
+			      }
+		    </style>
+	  </head>
+	  <body>
+		    <div class="grid-container">
+			      <header class="header">Header</header>
+			      <nav class="nav">Nav</nav>
+			      <main class="content">Main Content</main>
+			      <footer class="footer">Footer</footer>
+		    </div>
+    </body>
+</html>
