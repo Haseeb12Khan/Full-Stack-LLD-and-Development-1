@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    		<link rel="stylesheet" href="style.css">
+    		<style>
+        		.pin_container {
+            			display: grid;
+            			position: absolute;
+            			justify-content: center;
+        		}
+        		.card_small {
+            			grid-row-end: span 26;
+        		}
+        		.card_medium {
+        	    		grid-row-end: span 33;
+        		}
+        		.card_large {
+            			grid-row-end: span 45;
+        		}
+    		</style>
+	  </head>
+	  <body>
+			  <div class="pin_container">
+        		<div class="card card_small"></div>
+        		<div class="card card_medium"></div>
+        		<div class="card card_large"></div>
+        		<div class="card card_medium"></div>
+        		<div class="card card_small"></div>
+        		<div class="card card_large"></div>
+        		<div class="card card_medium"></div>
+        		<div class="card card_small"></div>
+        		<div class="card card_medium"></div>
+        		<div class="card card_small"></div>
+        		<div class="card card_medium"></div>
+        		<div class="card card_large"></div>
+        		<div class="card card_medium"></div>
+        		<div class="card card_small"></div>
+        		<div class="card card_medium"></div>
+        		<div class="card card_large"></div>
+    		</div>
+	  </body>
+</html>
