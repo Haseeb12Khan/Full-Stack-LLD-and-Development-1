@@ -1,0 +1,11 @@
+				QUESTION
+
+Which of the following CSS selectors has the highest specificity?
+
+Choose the correct answer from below:
+1) id			2) .class		3) element		4) .(universal selector)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+				SOLUTION
+
+Option 1 is the correct answer.
