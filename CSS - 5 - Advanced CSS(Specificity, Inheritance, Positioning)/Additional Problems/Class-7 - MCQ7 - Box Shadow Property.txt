@@ -1,0 +1,13 @@
+				QUESTION
+
+What is the purpose of the box-shadow property in CSS?
+
+Choose the correct answer from below:
+1. To add a border around an element
+2. To create a 3D effect on an element
+3. To add a shadow to an element
+4. To change the background color of an element
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+				SOLUTION
+
+Option 3 is the correct answer

@@ -1,0 +1,13 @@
+				QUESTION
+
+How does the z-index property affect the stacking order of elements in web design?
+
+Choose the correct answer from below:
+1. It determines the order in which elements are displayed from left to right
+2. It determines the order in which elements are displayed from top to bottom
+3. It determines the order in which elements are displayed in relation to other elements
+4. It has no effect on the stacking order of elements
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+				SOLUTION
+
+Option 3 is the correct answer.

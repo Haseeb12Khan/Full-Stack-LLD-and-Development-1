@@ -1,0 +1,13 @@
+				QUESTION
+
+How do you specify multiple box shadows for an element in CSS?
+
+Choose the correct answer from below:
+1. Using the box-shadow property and separating each shadow with a comma
+2. Using the shadow property and separating each shadow with a semicolon
+3. Using the multiple-shadow property and specifying each shadow in a separate rule
+4. It is not possible to specify multiple box shadows for an element in CSS
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+				SOLUTION
+
+Option 1 is the correct answer.
