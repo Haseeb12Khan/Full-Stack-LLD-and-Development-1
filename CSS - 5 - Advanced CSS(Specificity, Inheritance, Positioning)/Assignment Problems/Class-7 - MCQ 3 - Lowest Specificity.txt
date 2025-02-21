@@ -1,0 +1,11 @@
+				QUESTION
+
+Which of the following has the lowest specificity?
+
+Choose the correct answer from below:
+1) inline styles		2) !important		3) ID selectors		4) Class selectors
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+				SOLUTION
+
+Option 4 is the correct answer.

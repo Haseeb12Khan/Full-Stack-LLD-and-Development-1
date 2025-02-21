@@ -1,0 +1,11 @@
+				QUESTION 
+
+What is the specificity of the following selector: article p a ?
+
+Choose the correct answer from below:
+1) 001			2) 100			3) 201			4) 003
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+				SOLUTION
+
+Option 4 is the correct answer.
