@@ -1,0 +1,13 @@
+				QUESTION
+
+What does the inherit keyword do in CSS?
+
+Choose the correct answer from below:
+1. Sets the property to the computed value of the parent element
+2. Sets the property to its default value
+3. Removes the property from the element and all of its children
+4. Resets the property to its initial value
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+				SOLUTION
+
+Option 1 is the correct answer.
